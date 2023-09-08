@@ -610,6 +610,7 @@ p {
   display: block;
   flex-direction: column;
   color: var(--lightslate);
+  max-height: 14px;
   font-size: 12px;
   font-weight: 400;
   line-height: 1.17;
@@ -670,9 +671,10 @@ p {
   margin-bottom: 24px;
 }
 .form-accept-text {
-  display: inline-block;
+  display: block;
   color: var(--lightslate);
   width: 360px;
+  max-height: 16px;
   font-size: 12px;
   font-weight: 400;
   line-height: 1.17;
