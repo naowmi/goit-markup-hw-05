@@ -652,6 +652,7 @@ p {
   height: 120px;
   padding: 8px 16px;
   resize: none;
+  display: block;
   background-color: transparent;
   outline: transparent;
   border-radius: 4px;
